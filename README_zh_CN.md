@@ -1,4 +1,4 @@
-# XXTEA 加密算法的 HTML5 实现
+# XXTEA 加密算法的 mini-program 实现
 
 <a href="https://github.com/xxtea/">
     <img src="https://avatars1.githubusercontent.com/u/6683159?v=3&s=86" alt="XXTEA logo" title="XXTEA" align="right" />
