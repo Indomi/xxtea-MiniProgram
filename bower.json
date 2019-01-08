@@ -1,16 +1,16 @@
 {
-    "name": "xxtea-html5",
-    "description": "XXTEA is a fast and secure encryption algorithm. This is a XXTEA library for HTML5.",
+    "name": "xxtea-miniprogram",
+    "description": "XXTEA is a fast and secure encryption algorithm. This is a XXTEA library for MiniProgram(wechat).",
     "version": "1.1.5",
     "keywords": [
-        "html5",
+        "mini-program",
         "js",
         "xxtea",
         "encryption",
         "encrypt",
         "decrypt"
     ],
-    "homepage": "https://github.com/xxtea/xxtea-html5",
+    "homepage": "https://github.com/Indomi/xxtea-MiniProgram",
     "main": [
         "dist/xxtea.min.js"
     ],
@@ -22,7 +22,8 @@
         "bower.json",
         "gulpfile.js",
         "README_zh_CN.md",
-        "README.md"
+        "README.md",
+        "LICENSE.md"
     ],
     "dependencies": {
     }
